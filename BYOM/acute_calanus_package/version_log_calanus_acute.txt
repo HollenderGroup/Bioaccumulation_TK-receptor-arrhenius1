@@ -1,0 +1,18 @@
+Version log Calanus acute package for BYOM
+
+Version 1.0 (16/06/2017)
+
+- First version of this package, for BYOM 4.01
+
+Version 1.1 (08/08/2018)
+
+- Tiny changes to make the package work with BYOM 4.2, and some small updates in the GUTS calculations, to make it more in line with the complete GUTS package for BYOM.
+
+Version 1.2 (2 December 2021)
+
+- Modified package so it runs with BYOM 6.0.
+
+
+
+
+
