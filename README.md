@@ -8,6 +8,9 @@ The model uses the BYOM platform (https://www.debtox.info/byom.html).
 How to run the model simulations?
 Navigate to "BYOM/TK_receptor_arrhenius1", run "pathdefine.m", use any script (i.e. "byom_temp_thi_Run1_Amb.m") as your template.
 
+Data availability:
+All raw data are provided in SI_B ("raths_thi_temp_SI B.xlsx") in the present repository.
+
 *https://doi.org/10.1021/acs.est.3c01891
 
 
